@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Sokootak Beyakhodny |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sokootak-beyakhodny/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Sokootak Beyakhodny](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
