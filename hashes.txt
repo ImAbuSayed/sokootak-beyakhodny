@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sokootak Beyakhodny
+
+This log tracks the cryptographic history and versioning for the song **Sokootak Beyakhodny** (sokootak-beyakhodny).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:12:42.996991 | `v1` | `36bbb707cce2b871d48c122043bd0a05c7969409dceb0fca943c28b93f7ca186` | `d014d53b076425786edc79e8f4b9152352fc757227363b388a7801bf5c9e1c70` | `2026-05-08_sokootak-beyakhodny-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
